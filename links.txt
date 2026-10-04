@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/forecho/broker-rules/master/rule/Shadowrocket/Broker.list
-https://github.com/JettKing/SelfUse/blob/main/Honor%20of%20Kings.list
+https://github.com/xchaix/sing-box-rule-set-transform/blob/main/Horner.list
